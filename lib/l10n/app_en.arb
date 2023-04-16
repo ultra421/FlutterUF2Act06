@@ -1,0 +1,26 @@
+{
+    "@@locale": "en",
+    "helloWorld": "Hello world",
+    "@helloWorld":{
+        "description":"Yoooooo weeEEEEEElcome"
+    },
+    "hello": "Hello {userName}",
+    "@hello":{
+        "placeholders": {
+            "userName": {
+                "type": "String",
+                "example":"Pepe"
+            }
+        }
+    },
+    "loadingText": "\"Search for your city\"",
+    "loading":"Loading...",
+    "login":"Login",
+    "username":"Username",
+    "password":"Password",
+    "lastUpdate":"Last update: {date}",
+    "productCardInfo":"Price: {price} | Amount : {amount}",
+    "cityPopulation":"Population: {population}",
+    "languageSelectionLabel":"Change language",
+    "productInfoAmount":"Amount: {amount}"
+}

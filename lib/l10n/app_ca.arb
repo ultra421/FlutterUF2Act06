@@ -1,0 +1,15 @@
+{
+    "@@locale":"ca",
+    "helloWorld": "Que pasa mon",
+    "hello":"Hola {userName}",
+    "loadingText": "\"Busca la teva ciutat\"",
+    "loading":"Carregant...",
+    "login":"Iniciar Sesio",
+    "username":"Nombre del usuari",
+    "password":"Contrasenya",
+    "lastUpdate":"Ultima actualitzacio: {date}",
+    "productCardInfo":"Preu: {price} | Quantitat: : {amount}",
+    "cityPopulation":"Populacio: {population}",
+    "languageSelectionLabel":"Canviar idioma",
+    "productInfoAmount":"Quantitat: {amount}"
+}

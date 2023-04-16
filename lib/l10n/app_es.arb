@@ -1,0 +1,15 @@
+{
+    "@@locale": "es",
+    "helloWorld": "Que pasa mundo, loco brooo",
+    "hello":"Hola {userName}",
+    "loadingText": "\"Busca tu ciudad\"",
+    "loading":"Cargando...",
+    "login":"Iniciar Sesion",
+    "username":"Nombre de usuario",
+    "password":"Contraseña",
+    "lastUpdate":"Ultima actualitzacion: {date}",
+    "productCardInfo":"Precio: {price} | Cantidad : {amount}",
+    "cityPopulation":"Populacion: {population}",
+    "languageSelectionLabel":"Cambiar idioma",
+    "productInfoAmount":"Cantidad: {amount}"
+}
